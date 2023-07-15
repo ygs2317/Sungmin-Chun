@@ -1,15 +1,16 @@
 body {
   font-family: sans-serif;
-  background-color: #eeeeee;
+  background-color: #5c75ff; /* 변경된 배경색 */
 }
 
 .file-upload {
-  background-color: #ffffff;
+  background-color: white; /* 변경된 배경색 */
   width: 600px;
   margin: 0 auto;
   padding: 20px;
 }
 
+/* 나머지 CSS 코드는 동일합니다 */
 .file-upload-btn {
   width: 100%;
   margin: 0;
